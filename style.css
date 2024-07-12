@@ -1,0 +1,103 @@
+.img{
+    background-image: url(./traveling-concept-with-landmarks_23-2149153261\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+
+}
+.container{
+    display: flex;
+justify-content: space-between;
+margin-left: 220px;
+margin-right: 300px;
+margin-top: 130px;
+background-color: aliceblue;
+width: 800px;
+box-shadow: 10px;
+border: 2px solid aliceblue;
+border-radius: 10px;
+height: 500px;
+}
+body{
+    background-color:black;;
+    
+}
+i{
+    font-size: 30px;
+    color: black;
+    
+}
+.img{
+    text-align: center;
+    color:whitesmoke;
+}
+.login{
+    text-align: center;
+    color:rgb(70, 70, 94);
+    margin-right: 63px;
+    /* margin-left: -1000px; */
+}
+fieldset{
+    margin-top: 5px;
+    border-radius: 10px;
+}
+input{
+    /* border-radius: 0px; */
+    border-style: none;
+}
+.btn
+{
+    background-color: blueviolet;
+    color: aliceblue;
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;}
+.for{
+    color: grey;
+    margin-left: 100px;
+}
+.in{
+    color: grey;
+    font-size: 15px;
+}
+.wel{
+    font-size: 40px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.first{
+    width: 40px;
+    height: 40px;
+    background-color:white;
+}
+.sec{
+    width: 40px;
+    height: 40px;
+    background-color: beige;
+}
+.third{
+    width: 40px;
+    height: 40px;
+    background-color:white;
+
+}
+.img1{
+    width: 40px;
+    height: 40px;
+    /* background-color: beige; */
+}
+    /* .img2{
+        width: 30px;
+        height: 30px;
+    } */
+strong{
+    color: black;
+}
+p{
+    color: black;
+}
